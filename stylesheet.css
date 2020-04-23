@@ -212,6 +212,14 @@ footer {
   padding-bottom: 20px;
 }
 
+.footer-list {
+  float: right;
+}
+
+.footer-list li {
+  padding-bottom: 20px;
+}
+
 /* Ketik code Anda dibawah */
 .menu-icon {
   color: white;
