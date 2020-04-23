@@ -145,7 +145,7 @@ header {
 .lesson {
   float: left;
   position: center;
-  width: 30%;
+  width: 35%;
 }
 
 .lesson-icon {
@@ -216,4 +216,5 @@ footer {
   font-size: 25px;
   padding: 21px 0;
   display: none;
+  visibility:hidden
 }
