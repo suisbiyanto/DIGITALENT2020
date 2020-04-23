@@ -104,6 +104,7 @@ header {
 
 .header-left {
   float: left;
+  width: 35%;
 }
 
 .header-right {
