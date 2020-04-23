@@ -106,6 +106,11 @@ header {
   float: left;
 }
 
+.header-left img{
+  width: 50%;
+  height: 50%;
+}
+
 .header-right {
   float: right;
   margin-right: -25px;
@@ -142,6 +147,10 @@ header {
   font-weight: normal;
 }
 
+.lessons {
+  float: center;
+  width: 100%;
+}
 .lesson {
   float: left;
   width: 20%;
