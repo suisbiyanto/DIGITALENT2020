@@ -104,6 +104,9 @@ header {
 
 .header-left {
   float: left;
+}
+
+.header-left img {
   width: 35%;
 }
 
@@ -210,14 +213,6 @@ footer p {
 
 footer {
   padding-top: 30px;
-  padding-bottom: 20px;
-}
-
-.footer-list {
-  float: right;
-}
-
-.footer-list li {
   padding-bottom: 20px;
 }
 
