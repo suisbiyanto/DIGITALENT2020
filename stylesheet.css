@@ -106,11 +106,6 @@ header {
   float: left;
 }
 
-.header-left img{
-  width: 12%;
-  height: 12%;
-}
-
 .header-right {
   float: right;
   margin-right: -25px;
