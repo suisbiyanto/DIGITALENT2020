@@ -31,7 +31,7 @@ a {
 
 .top-wrapper {
   padding: 180px 0 100px 0;
-  background-image: url(https://image.freepik.com/free-vector/abstract-classic-blue-background_23-2148417583.jpg);
+  background-image: url(https://image.freepik.com/free-vector/geometric-background-memphis-style_52683-35346.jpg);
   background-size: cover;
   color: white;
   text-align: center;
@@ -144,7 +144,8 @@ header {
 
 .lesson {
   float: left;
-  width: 20%;
+  position: center;
+  width: 30%;
 }
 
 .lesson-icon {
