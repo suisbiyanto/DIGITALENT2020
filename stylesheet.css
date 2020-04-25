@@ -173,8 +173,8 @@ header {
 }
 
 @keyframes example {
-  from {top: 0px; background-color: black;}
-  to {top: 70px;}
+  from {top: 70px; background-color: black;}
+  to {top: 0px;}
 }
 
 .lesson-icon img {
