@@ -108,6 +108,17 @@ header {
 
 .header-left img {
   width: 27%;
+  position: relative;
+  /*Animasi*/  
+  animation-name: example;
+  animation-duration: 3s;  
+  animation-delay: 2s;
+  animation-fill-mode: backwards;  
+}
+
+@keyframes example {
+  from {top: 70px; background-color: black;}
+  to {top: 0px;}
 }
 
 .header-right {
