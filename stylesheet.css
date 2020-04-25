@@ -234,7 +234,7 @@ footer {
 
 .image {
   display: block;
-  width: 100%;
+  width: 50%;
   height: auto;
 }
 
@@ -252,7 +252,7 @@ footer {
 
 .container:hover .overlay {
   bottom: 0;
-  height: 100%;
+  height: 50%;
 }
 
 .text {
