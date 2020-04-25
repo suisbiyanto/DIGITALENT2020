@@ -117,8 +117,8 @@ header {
 }
 
 @keyframes example {
-  from {top: 70px; background-color: black;}
-  to {top: 0px;}
+  from {left: 0px; background-color: black;}
+  to {left: 50px;}
 }
 
 .header-right {
