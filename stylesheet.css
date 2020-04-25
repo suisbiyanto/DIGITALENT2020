@@ -160,10 +160,20 @@ header {
 }
 
 .lesson-icon p {
-  position: absolute;
+  position: relative;
   top: 44%;
   width: 100%;
-  color: white;
+  color: white;  
+  /*Animasi*/  
+  animation-name: example;
+  animation-duration: 3s;  
+  animation-delay: 2s;
+  animation-fill-mode: backwards;
+}
+
+@keyframes example {
+  from {top: 0px; background-color: black;}
+  to {top: 200px;}
 }
 
 .lesson-icon img {
