@@ -1,4 +1,4 @@
 # DIGITALENT2020
-Repo Data Kegiatan Digital talent 2020
+TUGAS 1
 ======================================
 - HTML & CSS
