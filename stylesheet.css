@@ -162,9 +162,9 @@ header {
 .lesson-icon p {
   position: relative;
   top: 44%;
-  width: 100%;
+  width: 50%;
   color: white;
-  padding: 0 25px;
+  padding: 0 45px;
   /*Animasi*/  
   animation-name: example;
   animation-duration: 3s;  
