@@ -163,7 +163,8 @@ header {
   position: relative;
   top: 44%;
   width: 100%;
-  color: white;  
+  color: white;
+  padding: 0 25px;
   /*Animasi*/  
   animation-name: example;
   animation-duration: 3s;  
@@ -173,7 +174,7 @@ header {
 
 @keyframes example {
   from {top: 0px; background-color: black;}
-  to {top: 200px;}
+  to {top: 100px;}
 }
 
 .lesson-icon img {
