@@ -1,4 +1,4 @@
 # DIGITALENT2020
-TUGAS 1
+TUGAS 1 HTML & CSS
 ======================================
-- HTML & CSS
+- Kelompok I-23
