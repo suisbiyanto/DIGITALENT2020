@@ -72,7 +72,7 @@
   }
   
   .header-right.responsive li a {
-    display: block;
+    display: inline-block;
     text-align: left;       
     background-color: rgba(112, 128, 145);
   }
