@@ -143,7 +143,7 @@ header {
   background-color: rgba(255, 255, 255, 0.3);
 }
 
-.lesson-wrapper {
+.about-wrapper {
   padding-bottom: 80px;
   padding-left: 5%;
   padding-right: 5%;
@@ -161,27 +161,27 @@ header {
   font-weight: normal;
 }
 
-.lessons {
+.abouts {
   float: center;
   width: 100%;
 }
-.lesson {
+.about {
   float: left;
   width: 20%;
 }
 
-.lesson-icon {
+.about-icon {
   position: relative;
 }
 
-.lesson-icon p {
+.about-icon p {
   position: relative;
   top: 44%;
   width: 100%;
   color: #8a8a5c;
 }
 
-.lesson-icon img {
+.about-icon img {
   width: 60%;
   height: 60%;
 }
