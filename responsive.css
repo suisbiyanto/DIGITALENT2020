@@ -74,7 +74,7 @@
   .header-right.responsive li a {
     display: block;
     text-align: left;       
-    background-color: rgba(112, 128, 145, 0.3);
+    background-color: rgba(112, 128, 145);
   }
 
 }
