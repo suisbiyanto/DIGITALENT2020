@@ -54,6 +54,12 @@
   line-height: 20px;
   }
   
+  /*TEST*/
+  .header-right li.icon {
+    float: right;
+    display: inline-block;
+  }
+  
   .header-right.responsive {position: relative;}
   .header-right.responsive li.icon {
     position: absolute;
