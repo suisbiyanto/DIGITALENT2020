@@ -121,9 +121,13 @@ header {
 }
 
 .header-right {
+  list-style-type: none;
   float: right;
   margin-right: -25px;
 }
+
+/* Float the list items side by side */
+.header-right li {float: left;}
 
 .header-right a {
   line-height: 65px;
