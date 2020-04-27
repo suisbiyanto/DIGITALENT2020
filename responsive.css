@@ -52,13 +52,8 @@
   .top-wrapper p{
   font-size: 14px;
   line-height: 20px;
-  }   
-
-}
-
-/* Class dengan nama "responsive" akan ditambahkan oleh JavaScript saat user mengklik icon. Munculnya Class ini akan mendisplay isi list menu 
-*/
-@media screen and (max-width:680px) {
+  }
+  
   header-right.responsive {position: relative;}
   header-right.responsive li.icon {
     position: absolute;
@@ -73,4 +68,6 @@
     display: block;
     text-align: left;
   }
+
 }
+
