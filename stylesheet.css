@@ -122,10 +122,13 @@ header {
 
 .header-right {
   list-style-type: none;
-  float: right;
   overflow: hidden;
   margin-right: -25px;
+  padding: 0;
 }
+
+/* Float the list items side by side */
+header-right li {float: left;}
 
 .header-right a {
   line-height: 65px;
