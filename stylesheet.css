@@ -121,8 +121,8 @@ header {
 }
 
 .header-right {
+  float: left;
   margin-right: -25px;
-  float: right;
 }
 
 .header-right a {
@@ -238,4 +238,7 @@ footer {
 
 
 /* Hide the list item that contains the link that should open and close the topnav on small screens */
-header-right li.icon {display: none;}
+header-right li.icon {
+  display: none;
+  float: right;
+}
