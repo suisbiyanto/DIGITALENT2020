@@ -127,6 +127,9 @@ header {
   overflow: hidden;
 }
 
+/* Float the list items side by side */
+.header-right li {float: left;}
+
 .header-right a {
   line-height: 65px;
   padding: 0 25px;
