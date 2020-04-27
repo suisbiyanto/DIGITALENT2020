@@ -203,7 +203,7 @@ header {
   padding: 15px 40px;
   background-color: #85adad;
   cursor: pointer;
-  box-shadow: 0 7px #1a7940;
+  box-shadow: 0 7px #3d5c5c;
 }
 
 .message:active {
