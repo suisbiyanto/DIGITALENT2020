@@ -14,7 +14,9 @@
         <div class="header-left">
           <img class="logo" src="images/23.png">
         </div>
-        <span class="fa fa-bars menu-icon"></span>
+        <li class="icon">
+        <a href="javascript:void(0);" onclick="myFunction()"><span class="fa fa-bars menu-icon"></span></a>
+        </li>
         <div class="header-right">
           <a href="#">Home</a>
           <a href="#">Project</a>
@@ -76,8 +78,7 @@
               <p>Surahman</p>
             </div>
             <p class="txt-contents">HTML & Java Script</p>
-          </div>
-          
+          </div>          
           <div class="clear"></div>
         </div>
       </div>
@@ -97,5 +98,12 @@
         <p>@2020 | Help and Support.</p>
       </div>
     </footer>
+    <script>
+/* Toggle between adding and removing the "responsive" class to topnav when the user clicks on the icon */
+function myFunction() {
+    document.getElementsByClassName("topnav")[0].classList.toggle("responsive");
+}
+
+ </script>
   </body>
 </html>
