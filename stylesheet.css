@@ -198,12 +198,6 @@ header {
   font-weight: normal;
 }
 
-.message-wrapper {
-  border-bottom: 1px solid #eee;
-  padding-bottom: 80px;
-  text-align: center;
-}
-
 .message {
   padding: 15px 40px;
   background-color: #85adad;
@@ -212,6 +206,27 @@ header {
 }
 
 .message:active {
+  position: relative;
+  top: 7px;
+  box-shadow: none;
+}
+
+/*informasi*/
+
+.informasi-wrapper {
+  border-bottom: 1px solid #eee;
+  padding-bottom: 80px;
+  text-align: center;
+}
+
+.informasi {
+  padding: 15px 40px;
+  background-color: #85adad;
+  cursor: pointer;
+  box-shadow: 0 7px #3d5c5c;
+}
+
+.informasi:active {
   position: relative;
   top: 7px;
   box-shadow: none;
