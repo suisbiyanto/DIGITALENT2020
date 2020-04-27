@@ -123,11 +123,9 @@ header {
 .header-right {
   list-style-type: none;
   float: right;
+  overflow: hidden;
   margin-right: -25px;
 }
-
-/* Float the list items side by side */
-.header-right li {float: left;}
 
 .header-right a {
   line-height: 65px;
@@ -138,7 +136,7 @@ header {
   transition: all 0.5s;
 }
 
-.header-right a:hover {
+.header-right li a:hover {
   background-color: rgba(255, 255, 255, 0.3);
 }
 
@@ -240,8 +238,6 @@ footer {
   visibility: hidden;
 }
 
-/* Change background color of links on hover */
-header-right li a:hover {background-color: #111;}
 
 /* Hide the list item that contains the link that should open and close the topnav on small screens */
 header-right li.icon {display: none;}
