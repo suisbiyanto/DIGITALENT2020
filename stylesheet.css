@@ -240,5 +240,8 @@ footer {
   visibility: hidden;
 }
 
+/* Change background color of links on hover */
+header-right li a:hover {background-color: #111;}
+
 /* Hide the list item that contains the link that should open and close the topnav on small screens */
 header-right li.icon {display: none;}
