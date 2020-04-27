@@ -124,11 +124,11 @@ header {
   list-style-type: none;
   overflow: hidden;
   margin-right: -25px;
-  padding: 0;
+  float: Right;
 }
 
 /* Float the list items side by side */
-header-right li {float: left;}
+header-right li.icon {float: left;}
 
 .header-right a {
   line-height: 65px;
