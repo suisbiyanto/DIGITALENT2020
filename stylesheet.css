@@ -121,8 +121,10 @@ header {
 }
 
 .header-right {
-  float: left;
-  margin-right: -25px;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
 }
 
 .header-right a {
